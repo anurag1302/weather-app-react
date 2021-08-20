@@ -1,0 +1,20 @@
+.input-box {
+  width: 60%;
+  margin-left: 10rem;
+}
+
+.input-box input {
+  width: 50%;
+  font-size: 2rem;
+}
+
+.input-box button {
+  width: 20%;
+  font-size: 2rem;
+  background-color: darkorchid;
+  cursor: pointer;
+}
+
+.input-box button:hover {
+  background-color: rgb(228, 173, 225);
+}

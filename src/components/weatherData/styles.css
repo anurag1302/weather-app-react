@@ -1,0 +1,15 @@
+section {
+  margin-top: 10rem;
+  width: 70%;
+  border: 1px solid green;
+  height: auto;
+  display: flex;
+}
+
+section div {
+  border: 1px solid black;
+  width: 50%;
+  font-size: 2rem;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
